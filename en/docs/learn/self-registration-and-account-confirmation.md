@@ -68,9 +68,9 @@ which is `         carbon.super        `.
     : `          https://<IS_HOST>:<IS_PORT>/carbon         `  
     **NOTE:** If your IS is already running, make sure to stop and start to apply configurations. 
     
-3.  Navigate to **Main** -> **Identity Providers** -> **Resident** -> **Account Management Policies** section.
+3.  Navigate to **Main** -> **Identity Providers** -> **Resident** -> **User Onboarding** section.
     
-4.  Expand the **User Self Registration** section and configure the
+4.  Expand the **Self Registration** section and configure the
     following properties.
     
     ![user-self-registration](../assets/img/using-wso2-identity-server/user-self-registration.png) 
